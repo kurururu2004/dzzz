@@ -27,3 +27,8 @@ let topPosition = 0;
  };
 
  move();
+
+setInterval(() => {
+    console.log("sec");
+},1000)
+ 
